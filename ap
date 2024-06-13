@@ -1,0 +1,29 @@
+ cd desktop
+cd nmu
+ git init
+ git config --global user.name "kiranpatil9197"
+git config --global user.email "kiranspatil537@gmail.com"
+git config --global user.email
+ git config --global user.name
+ git clone https://github.com/kiranpatil9197/KBCNMU.git
+ cd KBCNMU
+git pull https://github.com/kiranpatil9197/KBCNMU.git
+ ls
+f1  f2
+ git log
+git log | less
+git log --stat
+vi f3
+git add f3
+ git commit -m "save"
+ git diff
+repeat "add" and "commit" then "git diff"
+ git push https://github.com/kiranpatil9197/KBCNMU.git
+ git branch bca
+git checkout bca
+make file and then add and commit it
+git checkout main
+git merge bca
+ git log --patch
+
+
